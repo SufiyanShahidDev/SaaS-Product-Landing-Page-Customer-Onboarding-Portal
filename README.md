@@ -157,8 +157,7 @@ project-root/
 │   └── theme.js
 │
 └── assets/
-    ├── images/
-    └── icons/
+    └── readme-assets/
 ```
 
 ---
@@ -168,12 +167,10 @@ project-root/
 * Fully Responsive Design
 * Mobile-First Layout
 * Semantic HTML
-* Bootstrap Grid System
 * Modern UI Components
 * Reusable Styling
 * Smooth User Experience
 * Clean Code Structure
-* Beginner-Friendly JavaScript
 * Persistent Theme Settings
 * Multi-Step Onboarding Flow
 * Browser Storage Integration
@@ -199,8 +196,6 @@ The pricing calculator allows users to:
 
 * Choose a pricing plan
 * Switch between Monthly and Yearly billing
-* Automatically calculate pricing
-* View discounted yearly plans
 
 ---
 
@@ -222,8 +217,7 @@ The project follows modern frontend practices including:
 * Semantic HTML
 * Accessible Forms
 * Proper Heading Structure
-* Responsive Navigation
-* Keyboard-Friendly Inputs
+* Responsive Navigation\
 
 ---
 
@@ -266,7 +260,6 @@ Building this project strengthened my understanding of:
 Frontend Developer
 
 * LinkedIn: *(Add your LinkedIn profile here)*
-* GitHub: *(Add your GitHub profile here)*
 
 ---
 
@@ -278,4 +271,4 @@ This project was created as part of a **Frontend Development Internship** to dem
 
 ## 📜 License
 
-This project is intended for educational and portfolio purposes.
+This project is made by Sufiyan Shahid Dev.
