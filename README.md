@@ -33,7 +33,7 @@ Everything is built without a backend, demonstrating how browser technologies an
 ## Landing Page
 
 ```
-assets/hero-section.png
+![Hero Section](./assets/readme-assets//hero-section.png)
 ```
 
 ## Features Section
