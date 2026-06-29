@@ -260,7 +260,7 @@ Building this project strengthened my understanding of:
 Frontend Developer
 
 * LinkedIn: *(https://www.linkedin.com/feed/update/urn:li:activity:7477367892779360256/)*
-
+* Live Link: *(https://saas-product-customer-portal.netlify.app/)*
 ---
 
 # ⭐ Acknowledgement
